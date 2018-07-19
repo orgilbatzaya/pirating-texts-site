@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Can we trace the geographic spread of “pirated” copies  of Robinson Crusoe over time and can we draw conclusions about how the historical context of publication impacted the content of pirated copies?
   What is the core story that all editions have in common? What is the most important part of the Crusoe story which persists despite differences between volumes?
 
-baseurl: "/demo" # the subpath of your site, e.g. /blog
+baseurl: "/pirating-texts-site" # the subpath of your site, e.g. /blog
 url: "https://orgilbatzaya.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  orgilbatzaya
