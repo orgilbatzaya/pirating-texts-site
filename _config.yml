@@ -14,9 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Pirating Texts
-email: ob29@duke.edu
-email: gabester7@gmail.com
-email: lucianli123@gmail.com
+email: ob29@duke.edu, gabester7@gmail.com, lucianli123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Can we trace the geographic spread of “pirated” copies  of Robinson Crusoe over time and can we draw conclusions about how the historical context of publication impacted the content of pirated copies?
   What is the core story that all editions have in common? What is the most important part of the Crusoe story which persists despite differences between volumes?
