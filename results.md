@@ -12,5 +12,5 @@ Distributed Bag of Words, or [dbow]({{site.url}}{{site.baseurl}}/gexf-js/index.h
 
 Distributed Memory, or [dm]({{site.url}}{{site.baseurl}}/gexf-js/index.html#dm.gexf), creates document vectors in conjunction with word vectors, and takes word order into consideration by iterating through each word and looking at all the words within a sliding “context window”.
 
-![Some text]({{site.url}}{{site.baseurl}}\imgs\talk2.png){:height="50%" width="50%"}
+![Some text]({{site.url}}{{site.baseurl}}\imgs\talk2.png){:height="50%" width="50%"} 
 
