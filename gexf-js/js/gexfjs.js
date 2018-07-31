@@ -859,7 +859,6 @@
 
     function traceArc(ctx, source, target, arrow_size, draw_arrow) {
         ctx.beginPath();
-        ctx.lineWidth = '3'
         ctx.moveTo(source.x, source.y);
         if (GexfJS.params.curvedEdges) {
             var x2, y2, x3, y3, x4, y4, x5, y5;
