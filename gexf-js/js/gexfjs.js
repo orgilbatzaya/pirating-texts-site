@@ -880,6 +880,7 @@
                 y5 = target.y;
             }
             ctx.bezierCurveTo(x3, y3, x4, y4, x5, y5);
+            ctx.lineWidth = 3
             ctx.stroke();
             if (draw_arrow) {
                 // Find the middle of the bezierCurve
