@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   What is the core story that all editions have in common? What is the most important part of the Crusoe story which persists despite differences between volumes?
 
 baseurl: "/pirating-texts-site" # the subpath of your site, e.g. /blog
-url: "https://orgilbatzaya.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://orgilbatzaya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  orgilbatzaya
 
