@@ -4,6 +4,8 @@ title: Methods
 permalink: /methods/
 ---
 
+![flow]({{site.url}}{{site.baseurl}}/imgs/workflow.png){:height="75%" width="75%"}
+
 ### web scraping
 with `BeautifulSoup`
 
