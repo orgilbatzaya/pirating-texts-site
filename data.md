@@ -6,7 +6,7 @@ permalink: /data/
 
 ### books
 View our collection of 1483 editions of *Robinson Crusoe* scraped from University of Florida Digital Collection, Hathitrust Digital Library, and the Internet Archive 
-[here]({{ site.url }}{{site.baseurl}}/editions1500).
+[here](https://github.com/orgilbatzaya/pirating-texts-site/tree/master/editions1500).
 
 ### metadata
 Despite what may seem as a large collection of texts, there exists at least ten times that amount as we managed to track down metadata for over 15,000 editions published across the globe.
